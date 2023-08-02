@@ -1,0 +1,63 @@
+sabotage;1.hinder a cause
+2.practice sabotage
+|saccharine;1.sugar
+2.appealing to the emotions
+|sacrilege;profanation|saddle;load|safeguard;1.prevent accident
+2.make safe
+|sage;wisdom|salient;conspicuously|salubrious;promoting health|salutary;1.promoting health
+2.promoting
+|salutation;praise|salvage;save from loss|salve;assuage|sanctify;make holy|sanctimonious;hypocritically pious|sanction;make valid|sanctuary;protection|showcase;exhibit in an attractive aseptic|sanguine;free from doubt|sanitary;health|sap;1.weaken energy,vitality
+2.active strength
+|sapient;deep understanding and intelligent|sarcasm;ironic|sartorial;clothes|sate;satisfy fully|satiate;satisfy fully|scandalous;disgust|satirize;ridicule|saturate;wet thoroughly|saturnine;lacking in cheer|saunter;by foot|savant;learning|savory;pleasure or contentment|savvy;1.knowledge actually doing
+2.practical cleverness or judgment|scads;large number|scant;scarcely|scathing;cause hurt feelings|schism;lack of agreement|scintillate;sparks|seditious;excite political disorder|scission;division|scoff;derision:mock|scorch;burn make dry|scorn;reject,contemptible|scotch;put an end to|scour;to find or discover|scowl;expression displeasure|scrappy;aggressive|scrap;get rid of|scrawl;carelessly|scribble;meaningless|scrupulous;1.principled
+2.great care and effort
+|scrutable;understood,comprehensible|scrutinize;observe,great care|scuff;roughened by wear|scurrilous;vulgar|scurvy;contemptible|seamy;sordid,base|secluded;hidden|secrete;1.conceal
+2.generate|sedate;free from agitation|sedentary;not migratory|seduce;persuade|sedulous;careful perseverance|seemly;following the established traditions|segment;separate|self-abasement;humiliation|self-absorbed;absorbed in one's own|seminal;creative|sensation;intense interest|sift;examine|showmanship;dramatically effective presentation|sepulchral;lacking the cheer|septic;putrefaction|sequela;secondary resuly|sequester;segregate|sere;dried withered|serendipity;by accident|serene;free from uproar|sermon;public speech|serpentine;winding|self-defeating;causing more problems|serried;little space|servile;submissive,abject|shifty;deceitful character|shackle;1.restrictions
+2.create difficulty
+|shadow;1.secretly,trail
+2.gloomy|sham;1.present a false appearance
+2.fake|stale;so often as to be dull|shiftless;lacking ambition|shipshape;order|shirk;keep away from|shoal;little depth|shopworn;worn-out|shred;small amount|shrewd;cleverness or judgement|shrink;reduced|shroud;shut off from sight|shrug;dismiss|shun;keep away|sidestep;avoid having to comply with|signal;1.standing above
+2.direct or notify
+|simpleton;lacking in common sense|simulate;take on the appearance|self-perpetuating;continuing without ant external intervention
+|sensuality;pursuit of fleshly pleasures|sinecure;requires little or no work|sinew;vigorous strength|singe;burn superficially|sinuous;irregular curves|snag;difficulty|sacrosanct;most sacred|scourge;source of harm|skimp;1.less plentiful
+2.give insufficient funds|scruple;unseasy feeling about the rightness|skirt;go around|slack;1.not tightly fastened
+2.failing to give proper care
+|slake;satisfy|slant;1.way of looking
+2.slanting direction|slate;put on a list|slew;large amount|slight;1.deficient in weight
+2.treat with disdain
+3.fail to give proper attention|sling;send through the air|slippery;1.slide
+2.not precise in meaning|slipshod;indifference to exactness,precision,and accuracy|sloppy;1.lacking neatness
+2.lacking in order|sloth;disinclination to action|slouch;move slowly|slovenly;lacking neatness|sluggard;lazy person|sluggish;slow in movement|slumber;sleep|slur;1.mark of guilt
+2.without due,considerat|sly;clever or cunning|smarmy;hypocritically earnest|skullduggery;use of cleber underhanded actions|smattering;small amount|smirk;offensively self-satisfied|smother;refrain|smug;opinion of oneself|smuggling;importation or exportation contrary to the law|snare;1.catches and holds
+2.capture by|snarl;twist|sneer;scornful|snobbish;offensive air of superiority|snub;contempt or neglect|soak;make thoroughly wet|sober;1.seriousness
+2.restraint|sodden;1.penetrated by water
+2.wet thoroughly|solace;1.comfort in sorrow
+2.console|solder;unite|solemnity;solemn|solicitous;happiness of others|solid;sound reasoning|soliloquy;without addressing a listener|solitude;being alone|solvent;1.able to pay debets
+2.another substance is dissolved|somatic;of the body|somber;lacking in cheer|somnolence;needing sleep|slapdash;careless|soothe;bring comfort|sop;1.placate or soothe
+2.wet thoroughly|sophism;deceptive argumentation|sophisticated;1.worldly knowledge or refinement
+2.complex|soporific;1.induces sleep
+2.cause sleep|sordid;1.not clean
+2.baseness|sound;1.withstand stress without structural damage
+2.free from injury
+3.valid reasoning|sparse;less plentiful|spartan;simplicity|spat;quarrel|spate;large number|sleek;attractive|specious;false look of truth|speck;small amount|spectator;watches|spectrum;sequence or range|speculate;take to be true|spendthrift;1.spends improvidently
+2.spending money freely
+|spent;1. drained of energy
+2. no longer useful|slump;decline suddenly|spiny;requiring exceptional skill|spleen;anger or ill will|splice;unite|spontaneous;without appearent thought|spoof;exaggerates for comic effect|sporadic;not often occurring|sprawl;irregularly |sprightly;full of vitality|spur;1. arouses action
+2. incite|spurious;lacking authenticity|spurn;reject with distain|sanity;healthy condition|squalid;dirty|squall;scream|squander;spend wastefully|squat;broad in build and short in stature|soft-pedal;reduce|squelch;stop by force|secede;withdraw from an organization|stalwart;firm and resolute|stamina;moral strength|stammer;speak with pauses|startle;frighten or surprise|static;lack of movement|stature;.1. height
+2. quality or status|steadfast;firm in brief|stealth;not to attract attention|steep;1. approaching perpendicular
+2. beyond limit|stench;foul odor|stentorian;loud|sterile;1. not productive
+2. free from bacteria|stickler;insist on exactness|stiff;1. lacking suppleness
+2. requiring effort|stifle;hold back|stigma;mark of shame|stint;be frugal|stingy;unwilling to share|sequel;result|stipulate;specify agreement|stitch;sharp unpleasant sensation|stock;commonly used|sectarian;not broad|stodgy;dull|stoke;make greater|stoic;unaffected by pleasure or pain|stolid;little emotion|stomach;bear|stonewall;uncooperative, obstructive|stouthearted;stout spirit|stratagem;deceiving|sonorous;conspicuously full and rich |strand;leave in a unfavorable place|stratify; devide into classes|stray;lacking purpose|strenuous;1. vigorously active
+2. requiring considerable effort |striate;mark with striations|stricture;criticism|soothsayer;predicts future|strident;harsh sound|strike;1. force or violence
+2. deliver a blow
+3. violent action
+4. forceful contact
+|stringent;marked by rigor|strip;remove clothing|strut;walk pompous|spike;vigor|stultify;render futile|stupor;suspended sense|stunt;hinder growth|sturdy;strength|stygian;extremely dark|stymie;present an obstacle|subdue;conquer|subject;under the influence|subjugate;bring under control|sublime;high moral|subliminal;below perception|submerge;under water|submissive;submitting|subordinate;1. lower rank
+2. under one's control|subservient;obsequiously|subside;tend downward|subsidiary;secondary importance|subsidy;monetary|substantial;considerable in importance|substantiate;support with proof|substantive;relating to the essence|subterfuge;deception to conceal|subtle;difficult to perceive|subvert;overturn|succinct;clear, precise|succor;aid|suffocate;deprive of oxygen|suffuse;spread through|sulk;resentment|sullen;lacking in cheer|secular;worldly or temporal|summit;highest point|summon;call together|sumptuous;extremely luxurious|sunder;break apart|supercilious;haughty|superficial;lacking depth|superfluous;exceeding sufficient|stagnant;not advancing|supine;lethargy indifference|supple;bent; pliant|supplant;usurp the place of|supplement;complete for a deficiency |supplicate;make a request in earnest or urgent manner|supposition;little or no evidence|suppress;1. put a stop to force
+2. exclude|surcharge;charge much|surfeit;supply excess|surrender;give over to|surreptitious;escape being observed|susceptible;likely to meet with harm|suspend;bring to a formal close|suture;joining|svelte;slim|swagger;boast|swear;1. curse
+2. oath|sweltering;hot|swerve;turn aside abruptly|sterling;best kind|swindle;cheat|sybarite;devoted luxury|sycophant;flatter|syllabus;summary|syllogism;reasoning; deduction|symbiosis;living together|symmetry;balanced proportions|synchronous;identical period and phase|synergic;cooperating|synonymous;same, similar meaning|synopsis;outline; abstract or a summary|synthesis;combination|screen;1. something that shelters
+2. shut off from view|scrimp;avoid wastes|sectarianism;adherence to prejudices|secular;worldly or temporal|simile;a figure of speech comparing to unlike things|skittish;1. easily frightened
+2. likely to change|sparing;marked by careful restraint|splutter;speak hastily and incoherently|squeamish;affected with nausea|staunch;steadfast in loyalty|stereotype;a conventional opinion|stigmatize;brand as disgraceful|substitute;1. a things that takes the place of another
+2. take the place of|succumb;1. yield to strength
+2. be brought to death|supersede;displace|surly;churlish in mood|surmise;1. a thought based on scanty evidence
+2. form a noion from scanty evidence|surmount;achieve a victory over|surpass;become better|surrogate;one that takes the place of another|surveillance;close observation|
